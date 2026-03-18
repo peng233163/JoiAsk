@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "JoiAsk 管理后台",
-  description: "JoiAsk 提问箱管理后台",
+  title: "东方栀子管理后台",
+  description: "东方栀子提问箱管理后台",
   icons: {
     icon: "/favicon.png",
   },
