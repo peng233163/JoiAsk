@@ -70,7 +70,7 @@ export default function LoginPage() {
         <Card className="fabric-shadow fabric-border">
           <CardHeader className="pb-2 pt-6">
             <CardTitle className="text-xl text-foreground">
-              JoiAsk 管理后台
+              东方栀子提问箱管理后台
             </CardTitle>
             <CardDescription className="text-muted-foreground">
               请登录以继续
